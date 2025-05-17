@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://drive.google.com/drive/folders/1qHXb3cXjrxs6YgPTJJL_EjpgOOOPmZAW
+    url: https://content.da.live/faiz9102/storefront-practice/
     type: markup
 
 folders:
