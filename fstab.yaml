@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/faiz9102/storefront-practice/
+    type: markup
+
+folders:
+  /products/: /products/default
